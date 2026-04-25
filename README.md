@@ -1,3 +1,8 @@
-# LW2-End-to-End-Data-Analytics-in-Power-BI-From-Data-Cleaning-to-DAX-Insights
+# Power BI Laboratory Activity
+## Submitted By:
+Harry M. Dajunos
+## Laboratory Title:
+Laboratory Work 2 - Data Analytics in Power BI
 
-# Google Slides: https://docs.google.com/presentation/d/1X6WYgoN6yKp5COY7lDhua8d3VB3lawptXkqEo6-hNzg/edit?usp=sharing
+[Click here to view the PDF](./Dajunos_Harry_LW5.pdf)
+
